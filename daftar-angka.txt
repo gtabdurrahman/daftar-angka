@@ -1,0 +1,5 @@
+daftar urutan angka:
+1. menambah angka 1
+2. menambah angka 2
+3. menambah angka 3
+4. menambah angka 4
