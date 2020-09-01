@@ -3,3 +3,5 @@ daftar urutan angka:
 2. menambah angka 2
 3. menambah angka 3
 4. menambah angka 4
+5. menambah angka 5
+6. menambah angka 6
