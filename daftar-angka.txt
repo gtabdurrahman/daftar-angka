@@ -4,4 +4,4 @@ daftar urutan angka:
 3. menambah angka 3
 4. menambah angka 4
 5. menambah angka 5
-6. menambah angka 6
+7. menambah angka 7 (angka 6 di hapus)
